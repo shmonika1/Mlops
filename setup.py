@@ -19,7 +19,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
    
 
 __version__ = "0.0.6"
-REPO_NAME = "MLops"
+REPO_NAME = "Mlops"
 PKG_NAME= "MongoConnect_ms1"
 AUTHOR_USER_NAME = "shmonika1"
 AUTHOR_EMAIL = "monika.sharma3@gds.ey.com"
